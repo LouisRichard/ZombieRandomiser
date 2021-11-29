@@ -10,7 +10,7 @@ To install the program, follow these simple steps
 - Download and run ZombieRandomiser_vX-Y-Z.msi
 
   - Windows will warn you that this program is not signed and you're installing at your own risk.
-    - To bypass this warning, click <u>More info</u> and the option Run Anyway will appear.
+    - To bypass this warning, click <u>More info</u> and the option `Run Anyway` will appear.
 - The Setup Wizard will then appear
 - You can choose to install it wherever. 
 
@@ -36,9 +36,7 @@ Before editing the program, there's a little thing you need to do
 
 take the ZombieDB.db3 file and put it in the following folder : 
 
-```
-ZombieRandomiser/ZombieRandomiser/bin/Debug
-```
+`ZombieRandomiser/ZombieRandomiser/bin/Debug`
 
 if the folder doesn't exist, you can compile the program once and it should appear.
 
