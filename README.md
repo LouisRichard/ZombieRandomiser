@@ -5,12 +5,15 @@ We played it so much with my friends, we decided to spice it up a little :)
 
 # Table of Contents
 1. [Installation](#installation)
-2. [How to use](#how-to-use-the-program)
-  1. [Interface](#interface)
-  2. [Rules](#rules)
-3. [General informations](#general-informations)
-4. [Edit the program](#edit-the-program)
-5. [Credit and crew](#credit-and-crew)
+2. [How to use the program](#how-to-use-the-program)
+   1. [Interface](#interface)
+   2. [Rules](#rules)
+3. [Edit the software](#edit-the-program)
+   1. [Add the database to the solution](#add-db)
+   2. [NuGet packages](#nuget)
+4. [Credit and crew](#credit-and-crew)
+
+
 
 
 # Installation <a name="installation"></a>
@@ -33,10 +36,10 @@ After these few steps, the program will appear in your start menu and on your de
 
 
 
-# How to use the program <a name="how-to-use-the-program"></a>
-  
+# How to use the software <a name="how-to-use-the-program"></a>
+
 ## Interface <a name="interface"></a> 
- 
+
 ![alt text](https://raw.githubusercontent.com/LouisRichard/ZombieRandomiser/main/_assets/mainWindow.jpg "Main Window")
 
 
@@ -63,15 +66,11 @@ Here's how me and my friends play it :
 
 You can, of course, make your own rules if you want
 
-# General informations <a name="genral-informations"></a>
-The project is written in C# .NET with the .NET Framework.
-It's only meant to work on Windows. I'm sure there's way to run it on Linux and I'm sure you can figure it out by yourself :)
-
-This software uses an SQLite database to store all the weapons, perks and maps as well as which weapons and perks are on which map.
-
 
 
 # Edit the program <a name="edit-the-program"></a>
+
+## Add the database in the solution <a name="add-db"></a>
 
 Before editing the program, there's a little thing you need to do
 
@@ -88,6 +87,14 @@ The debugger will spat out an error because, well, the database doesn't exist.
 Once that's done, you can run the program and it should run just fine 🤞
 
 
+
+## NuGet packages <a name="nuget"></a>
+
+This softwares uses the following NuGet Package :
+
+* System.Data.SQLite
+
+If it's not there, the program will not run
 
 
 
