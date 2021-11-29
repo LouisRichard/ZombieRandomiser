@@ -83,4 +83,4 @@ Once that's done, you can run the program and it should run just fine 🤞
 * Louis Richard - Main dev
 * Liam Trancoso - Tests
 * Ewan Grobet - Tests
-* Can't find the author - Icon
+* [IconFreePik](https://www.iconfreepik.com/icons8-halloween-zombie-icon-free-pik-download/) - Icon
