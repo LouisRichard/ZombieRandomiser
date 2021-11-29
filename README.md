@@ -30,6 +30,28 @@ This software uses an SQLite database to store all the weapons, perks and maps a
 
 
 
+# Edit the program
+
+Before editing the program, there's a little thing you need to do
+
+take the ZombieDB.db3 file and put it in the following folder : 
+
+```
+ZombieRandomiser/ZombieRandomiser/bin/Debug
+```
+
+if the folder doesn't exist, you can compile the program once and it should appear.
+
+The debugger will spat out an error because, well, the database doesn't exist.
+
+
+
+Once that's done, you can run the program and it should run just fine 🤞
+
+
+
+
+
 # Credit and crew
 
 * Louis Richard - Main dev
