@@ -24,8 +24,10 @@ After these few steps, the program will appear in your start menu and on your de
 
 
 # How to use the program
+  
+ 
+![alt text](https://raw.githubusercontent.com/LouisRichard/ZombieRandomiser/main/_assets/mainWindow.jpg "Main Window")
 
-![mainWindow](.\_assets\mainWindow.jpg)
 
 1. Button to randomise the map. Click this button to get a random map
 2. Map selection. Use this menu to select a specific map. If you randomise, the map name will appear here
