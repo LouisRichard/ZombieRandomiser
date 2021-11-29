@@ -3,7 +3,17 @@
 Project made to randomise Black Ops 3 zombie games.
 We played it so much with my friends, we decided to spice it up a little :)
 
-# Installation
+# Table of Contents
+1. [Installation](#installation)
+2. [How to use](#how-to-use-the-program)
+  1. [Interface](#interface)
+  2. [Rules](#rules)
+3. [General informations](#general-informations)
+4. [Edit the program](#edit-the-program)
+5. [Credit and crew](#credit-and-crew)
+
+
+# Installation <a name="installation"></a>
 To install the program, follow these simple steps
 
 - Get the latest release from [here](https://github.com/LouisRichard/ZombieRandomiser/releases)
@@ -23,8 +33,9 @@ After these few steps, the program will appear in your start menu and on your de
 
 
 
-# How to use the program
+# How to use the program <a name="how-to-use-the-program"></a>
   
+## Interface <a name="interface"></a> 
  
 ![alt text](https://raw.githubusercontent.com/LouisRichard/ZombieRandomiser/main/_assets/mainWindow.jpg "Main Window")
 
@@ -37,10 +48,9 @@ After these few steps, the program will appear in your start menu and on your de
 6. Randomize button. Click here to randomise the perks and weapons according to the selected map.
 
 
+## Rules <a name="rules"></a>
 
-Rules : Make up your own! That's the beauty of it.
-
-But in case you don't want to, here's how me and my friends play : 
+Here's how me and my friends play it :
 
 * The final setup must be the same as the one in this window
 * If it takes the player too long to get to their build, they may buy a wallgun temporarily
@@ -51,8 +61,9 @@ But in case you don't want to, here's how me and my friends play :
 * Gobblegums aren't restricted. You may pick whichever one you want
 * Have fun :D  
 
+You can, of course, make your own rules if you want
 
-# General informations 
+# General informations <a name="genral-informations"></a>
 The project is written in C# .NET with the .NET Framework.
 It's only meant to work on Windows. I'm sure there's way to run it on Linux and I'm sure you can figure it out by yourself :)
 
@@ -60,7 +71,7 @@ This software uses an SQLite database to store all the weapons, perks and maps a
 
 
 
-# Edit the program
+# Edit the program <a name="edit-the-program"></a>
 
 Before editing the program, there's a little thing you need to do
 
@@ -80,7 +91,7 @@ Once that's done, you can run the program and it should run just fine 🤞
 
 
 
-# Credit and crew
+# Credit and crew <a name="credit-and-crew"></a>
 
 * Louis Richard - Main dev
 * Liam Trancoso - Tests
