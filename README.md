@@ -102,6 +102,5 @@ If it's not there, the program will not run
 
 * [Louis Richard](https://louisrichard.github.io/) - Main dev
 * [Michael Pedroletti](https://michael.pedroletti.ch/) - Second dev (came later)
-* Liam Trancoso - Tests
-* Ewan Grobet - Tests
+* [WeW Family](https://wewfamily.ch/) - tests
 * [IconFreePik](https://www.iconfreepik.com/icons8-halloween-zombie-icon-free-pik-download/) - Icon
