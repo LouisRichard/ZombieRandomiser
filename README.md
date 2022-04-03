@@ -100,7 +100,7 @@ If it's not there, the program will not run
 
 # Credit and crew <a name="credit-and-crew"></a>
 
-* Louis Richard - Main dev
-* Liam Trancoso - Tests
-* Ewan Grobet - Tests
+* [Louis Richard](https://louisrichard.github.io/) - Main dev
+* [Michael Pedroletti](https://michael.pedroletti.ch/) - Second dev (came later)
+* [WeW Family](https://wewfamily.ch/) - tests
 * [IconFreePik](https://www.iconfreepik.com/icons8-halloween-zombie-icon-free-pik-download/) - Icon
